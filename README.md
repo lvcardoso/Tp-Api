@@ -8,3 +8,7 @@ Repositório para publicação das resoluções dos exercícios de Laboratório 
 ## Professor responsável
 
 * Nome completo do professor
+
+## Instruções de Uso
+
+* Apresentar instruções de como o trabalho pode ser replicado/reproduzido.
